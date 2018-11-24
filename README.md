@@ -13,4 +13,4 @@
 - [ ] Parse url
 - [ ] Create connection to url
 - [ ] Parse response from server
-- [ } Print results
+- [ ] Print results
