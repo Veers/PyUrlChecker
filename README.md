@@ -9,6 +9,7 @@
 *Flag -v or --verbose print checking steps*
 
 
+## TODO
 - [ ] Parse command line arguments
 - [ ] Parse url
 - [ ] Create connection to url
